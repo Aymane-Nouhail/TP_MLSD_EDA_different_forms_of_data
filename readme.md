@@ -12,4 +12,5 @@ pip install -r requirements.txt
 - **video_tp.ipynb**: Video dataset loading, frame extraction, and visualization.
 - **audio_tp.ipynb**: Audio dataset loading, waveform and spectrogram visualization.
 - **text_tp.ipynb**: Text preprocessing, embeddings (BoW, TF-IDF, Word2Vec, MiniLM), and visualization.
-- **timeseries_tp.ipynb**: Time series analysis, moving
+- **timeseries_tp.ipynb**: Time series analysis.
+- **graph_tp.ipynb**: Graph EDA.
