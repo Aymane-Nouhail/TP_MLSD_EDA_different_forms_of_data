@@ -1,0 +1,5 @@
+.venv
+facebook_combined.txt
+*.txt.gz
+*.DS_Store
+__pycache__/

@@ -1,0 +1,13 @@
+matplotlib
+plotly
+pandas
+nltk
+scikit-learn
+gensim
+sentence-transformers
+librosa
+kagglehub
+opencv-python
+Pillow
+statsmodels
+ipycytoscape
